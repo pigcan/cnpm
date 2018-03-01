@@ -16,3 +16,7 @@ node_modules
 npm-debug.log
 build/
 package-lock.json
+release/
+cnpm-macos
+cnpm-win.exe
+cnpm-linux

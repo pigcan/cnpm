@@ -17,7 +17,25 @@ cnpm
 
 ![logo](https://raw.github.com/cnpm/cnpmjs.org/master/logo.png)
 
+# FORK FROM CNPM FOR MAKING A PKG PACKAGE
+
+[pkg](https://www.npmjs.com/package/pkg) This command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
+
+step 1:
+
+npm install -g pkg
+
+
+step 2:
+
+npm run pkg
+
+
+The executable compressed files are existed in release folder.
+
+
 cnpm: npm client for [cnpmjs.org](https://cnpmjs.org)
+
 
 
 ## Requirements
